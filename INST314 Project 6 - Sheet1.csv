@@ -1,0 +1,11 @@
+answer to Q1,answer to Q2,answer to Q3,answer to Q4,answer to Q5,respondent's age,respondent's gender (optional),respondent's occupation
+7,3,9,Difference-honoring,Not,21,Female,Student
+3,5,9,difference honoring,no,23,,server 
+4,3,5,Difference-denying,Never,22,Male,Server 
+4,5,5,Difference-honoring,No,22,Female,Student 
+3,4,7,Difference-honoring,No,21,,ABA Therapist
+1,4,10,Difference-denying,No,22,Male,Engineer
+1,1,10,Difference-denying,No,23,Male,Research Biologist
+5,4,8,Difference-removing,No,22,Male,N/A
+3,1,5,Difference-denying,No,21,Male,Student
+3,1,8,Difference-honoring,No,22,Female,Server 
